@@ -16,7 +16,7 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 ---
 
 ## 📂 Project Structure
-- **├── chatbot_model.h5            # Trained ML model
+- ├── chatbot_model.h5            # Trained ML model
 - **├── intents.json                # Intent definitions and patterns
 - **├── requirements.txt            # Project dependencies
 - **├── student.students.json       # JSON file for MongoDB import
