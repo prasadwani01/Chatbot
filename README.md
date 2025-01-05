@@ -60,7 +60,7 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 - Choose a language for communication.
 - Ask questions about your performance or attendance.
 
-###Technologies Used
+### Technologies Used
 - Backend: Python, Flask
 - Machine Learning: TensorFlow, Hugging Face Transformers
 - NLP Libraries: NLTK, SpaCy, TextBlob
