@@ -58,20 +58,20 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 
 - Enter your Student Code.
 - Choose a language for communication.
--Ask questions about your performance or attendance.
+- Ask questions about your performance or attendance.
 
 ###Technologies Used
-Backend: Python, Flask
-Machine Learning: TensorFlow, Hugging Face Transformers
-NLP Libraries: NLTK, SpaCy, TextBlob
-Database: MongoDB
-Sentiment Analysis: TextBlob
+- Backend: Python, Flask
+- Machine Learning: TensorFlow, Hugging Face Transformers
+- NLP Libraries: NLTK, SpaCy, TextBlob
+- Database: MongoDB
+- Sentiment Analysis: TextBlob
 
 🌐 Multilingual Support
 Supported languages include:
 
--Spanish (es)
--French (fr)
--Hindi (hi)
--Marathi (mr)
+- Spanish (es)
+- French (fr)
+- Hindi (hi)
+- Marathi (mr)
 And more via Hugging Face's MarianMT models.
