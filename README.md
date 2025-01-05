@@ -38,27 +38,28 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
    ```bash
    git clone https://github.com/your-username/ai-student-chatbot.git
    cd ai-student-chatbot
-2. **Install Dependencies
+2. Install Dependencies
+   ```bash
+   pip install -r requirements.txt
 
-- **pip install -r requirements.txt
-##Set Up MongoDB
+3.Set Up MongoDB
+- Import the student.students.json into your MongoDB database.
+- Ensure the database name is student and the collection is students.
 
-- **Import the student.students.json into your MongoDB database.
-- **Ensure the database name is student and the collection is students.
+4.Train the Chatbot Model Run the training script to generate the chatbot_model.h5 file:
 
-##Train the Chatbot Model Run the training script to generate the chatbot_model.h5 file:
--python Train.py
+    -python Train.py
+ 
+5.Run the Chatbot Start the chatbot system:
 
-##Run the Chatbot Start the chatbot system:
--python Response_System.py
+    -python Response_System.py
 
-##Interact with the Chatbot
-
+6.Interact with the Chatbot
 -Enter your Student Code.
 -Choose a language for communication.
 -Ask questions about your performance or attendance.
 
-##Technologies Used
+###Technologies Used
 Backend: Python, Flask
 Machine Learning: TensorFlow, Hugging Face Transformers
 NLP Libraries: NLTK, SpaCy, TextBlob
