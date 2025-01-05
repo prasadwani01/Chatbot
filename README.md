@@ -58,7 +58,7 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 -Sentiment Analysis: TextBlob
 
 🌐 Multilingual Support
-##Supported languages include:
+Supported languages include:
 
 -Spanish (es)
 -French (fr)
