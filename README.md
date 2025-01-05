@@ -16,6 +16,13 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 ---
 
 ## 📂 Project Structure
+├── chatbot_model.h5            # Trained ML model
+├── intents.json                # Intent definitions and patterns
+├── requirements.txt            # Project dependencies
+├── student.students.json       # JSON file for MongoDB import
+├── Train.py                    # Script to train the chatbot model
+├── Response_System.py          # Main chatbot system
+└── README.md                   # Project documentation
 
 
 ---
@@ -31,8 +38,9 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
    ```bash
    git clone https://github.com/your-username/ai-student-chatbot.git
    cd ai-student-chatbot
-##Install Dependencies
-- **pip install -r requirements.txt
+Install Dependencies
+
+pip install -r requirements.txt
 ##Set Up MongoDB
 
 - **Import the student.students.json into your MongoDB database.
