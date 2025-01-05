@@ -56,8 +56,8 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 
 6.Interact with the Chatbot
 
--Enter your Student Code.
--Choose a language for communication.
+- **Enter your Student Code.
+- **Choose a language for communication.
 -Ask questions about your performance or attendance.
 
 ###Technologies Used
