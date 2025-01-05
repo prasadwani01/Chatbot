@@ -67,7 +67,7 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 - Database: MongoDB
 - Sentiment Analysis: TextBlob
 
-🌐 Multilingual Support
+### 🌐 Multilingual Support
 Supported languages include:
 
 - Spanish (es)
