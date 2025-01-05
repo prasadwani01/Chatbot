@@ -1,0 +1,24 @@
+{
+  "intents": [
+    {
+      "tag": "performance",
+      "patterns": ["How am I doing?", "Show my performance", "What are my marks?"],
+      "responses": ["Fetching your performance data..."]
+    },
+    {
+      "tag": "attendance",
+      "patterns": ["What’s my attendance?", "How often am I present?", "Attendance status?"],
+      "responses": ["Checking your attendance records..."]
+    },
+    {
+      "tag": "followup",
+      "patterns": ["What about it?", "Can you tell me more?", "Explain further."],
+      "responses": ["Let me check the details for you."]
+    },
+    {
+      "tag": "improvement",
+      "patterns": ["What should I improve?", "How can I score better?", "Tips for improvement"],
+      "responses": ["Analyzing your weak areas..."]
+    }
+  ]
+}
