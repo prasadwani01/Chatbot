@@ -38,7 +38,7 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
    ```bash
    git clone https://github.com/your-username/ai-student-chatbot.git
    cd ai-student-chatbot
-###Install Dependencies
+2. **Install Dependencies
 
 - **pip install -r requirements.txt
 ##Set Up MongoDB
