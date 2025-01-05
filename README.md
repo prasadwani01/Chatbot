@@ -51,11 +51,11 @@ A comprehensive AI-based chatbot that assists students in understanding their ac
 -Ask questions about your performance or attendance.
 
 ##Technologies Used
--Backend: Python, Flask
--Machine Learning: TensorFlow, Hugging Face Transformers
--NLP Libraries: NLTK, SpaCy, TextBlob
--Database: MongoDB
--Sentiment Analysis: TextBlob
+Backend: Python, Flask
+Machine Learning: TensorFlow, Hugging Face Transformers
+NLP Libraries: NLTK, SpaCy, TextBlob
+Database: MongoDB
+Sentiment Analysis: TextBlob
 
 🌐 Multilingual Support
 Supported languages include:
